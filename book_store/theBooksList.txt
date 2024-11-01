@@ -1,0 +1,4 @@
+Doctor Sleep,Stephen King,500
+East of Eden,John Steinbeck,800
+Dracula,Bram Stoker,300
+Meditations,Marcus Aurelius,100
